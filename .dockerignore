@@ -1,0 +1,10 @@
+build
+node_modules
+.git
+.env
+src/App.test.js
+reportWebVitals.js
+setupTests.js
+.gitignore
+Dockerfile
+README.md
