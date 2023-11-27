@@ -6,7 +6,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  S3_BUCKET_NAME: seo-react2
+  S3_BUCKET_NAME: seoreact3
 
 permissions:
   contents: read
